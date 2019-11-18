@@ -1,0 +1,25 @@
+StartChar: hyphen_greater.liga
+Encoding: 57618 57618 993
+Width: 1060
+VWidth: 6
+Flags: W
+HStem: 444 156<-861 627>
+LayerCount: 2
+Fore
+SplineSet
+352 996 m 1
+ 480 1098 l 1
+ 494 1060 526 1021 563 979 c 0
+ 635 893 947 602 970 584 c 1
+ 946 464 l 1
+ 764 335 416 94 278 -4 c 0
+ 247 -25 225 -42 189 -58 c 1
+ 89 75 l 1
+ 218 159 446 319 627 444 c 1
+ -892 444 l 1
+ -861 600 l 1
+ 713 600 l 1
+ 595 713 427 872 352 996 c 1
+EndSplineSet
+Validated: 1
+EndChar
